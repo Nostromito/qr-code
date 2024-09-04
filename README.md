@@ -14,7 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 A recreation attempt at front end mentors qr code, used for learning and constructive critisism. This is my first try at writing a code correctly and used for figuring out where I need help through the community. Thanks!
